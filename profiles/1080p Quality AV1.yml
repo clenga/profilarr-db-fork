@@ -106,9 +106,9 @@ custom_formats:
 - name: DTS-ES
   score: 500
 - name: AV1
-  score: 500
+  score: 1500
 - name: AV1 Codec
-- score: 1000
+- score: 15000
 - name: Dolby Atmos
   score: 400
 - name: Dolby Digital
@@ -176,9 +176,9 @@ custom_formats:
 - name: HDR
   score: -999999
 - name: HDR10
-  score: -999999
+  score: 0
 - name: HDR10+
-  score: -999999
+  score: 0
 - name: HLG
   score: -999999
 - name: PQ
