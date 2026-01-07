@@ -1,4 +1,4 @@
-name: 2160p Efficient
+name: 2160p Efficient AV1
 description: '2160p Efficient targets consistent & immutable 2160p **WEB-DLs w/ Lossy
   Audio**. Specialized Fallback to 1080p Efficient
 
@@ -115,6 +115,8 @@ custom_formats:
 - name: DTS-ES
   score: 500
 - name: AV1
+  score: 500
+- name: AV1 Codec
   score: 500
 - name: Dolby Atmos
   score: 400
