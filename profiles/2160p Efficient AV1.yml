@@ -115,9 +115,11 @@ custom_formats:
 - name: DTS-ES
   score: 500
 - name: AV1
-  score: 500
+  score: 5000
 - name: AV1 Codec
-  score: 500
+  score: 5000
+- name: Includes English
+  score: 200
 - name: Dolby Atmos
   score: 400
 - name: Dolby Digital
