@@ -1,1 +1,13 @@
 
+name: Includes English
+description: Matches releases that include an English language track.
+tags:
+- Language
+conditions:
+- exceptLanguage: false
+  language: english
+  name: Includes English
+  negate: true
+  required: true
+  type: language
+tests: []
