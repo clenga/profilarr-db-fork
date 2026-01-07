@@ -16,6 +16,7 @@ tags:
 - Lossy Audio
 - h265
 - x265
+- AV1
 upgradesAllowed: true
 minCustomFormatScore: 20000
 upgradeUntilScore: 888888
@@ -169,8 +170,6 @@ custom_formats:
   score: 0
 - name: STAN
   score: 0
-- name: AV1
-  score: -999999
 - name: Banned Groups (Efficient)
   score: -999999
 - name: Banned WEBRip (Efficient)
