@@ -1,4 +1,4 @@
-name: AV1 Codec
+name: AV1
 includeCustomFormatWhenRenaming: false
 specifications:
   - name: AV1 Codec
