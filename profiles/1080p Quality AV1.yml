@@ -105,6 +105,10 @@ custom_formats:
   score: 600
 - name: DTS-ES
   score: 500
+- name: AV1
+  score: 500
+- name: AV1 Codec
+- score: 1000
 - name: Dolby Atmos
   score: 400
 - name: Dolby Digital
@@ -157,8 +161,6 @@ custom_formats:
   score: 0
 - name: STAN
   score: 0
-- name: AV1
-  score: 500
 - name: Banned Groups
   score: -999999
 - name: Banned WEBRip
